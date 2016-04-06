@@ -28,6 +28,7 @@
 |[JavaScript](https://ja.wikipedia.org/wiki/JavaScript)|第1話|金色|ロング|(無し)|普乳|白いカッターシャツ・金色のリボン・紺のプリーツスカート|無し|？|？|？|気が弱い|[JSちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-js.gif)|
 |[Java](https://ja.wikipedia.org/wiki/Java)|第1話|茶色|ロング|(無し)|巨乳|紺のブレザー・赤い「型」腕章・白いカッターシャツ・赤色のリボン・紺のプリーツスカート|無し|私|あなた|？|コーヒー好き|[Javaちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-java.gif)|
 |[C言語](https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E)|第1話|青色|ショート|「C」マーク|普乳|白いカッターシャツ・朱色のリボン・|無し|？|？|？|不思議ちゃん|[Cちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-c.gif)|
+
 - 背丈……JavaScript≒Java＞C。周囲の物体から察するに、**皆は人間並みの大きさである**
 
 ## 詳細
