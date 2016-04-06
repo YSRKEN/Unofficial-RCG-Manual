@@ -14,7 +14,7 @@
 
 # 制作陣
 |項目|マンガ|シナリオ|
-|----|------|--------|
+|:---|:-----|:-------|
 |ペンネーム|ちょまど|セオジョージ|
 |Twitter|[@chomado](https://twitter.com/chomado)|[@theodoorjp](https://twitter.com/theodoorjp)|
 |Webサイト|[ちょまど帳](http://chomado.com/)|[セオ商事](http://theodoor.jp/)|
@@ -24,7 +24,7 @@
 # キャラクター
 ## 概説
 |言語名|初登場|髪色|髪長|髪留め|胸|服装|アクセサリー|1人称|2人称|3人称|備考|サンプル画像|
-|------|------|----|----|------|--|----|------------|-----|-----|-----|----|------------|
+|:-----|:-----|:---|:---|:-----|:-|:---|:-----------|:----|:----|:----|:---|:-----------|
 |[JavaScript](https://ja.wikipedia.org/wiki/JavaScript)|第1話|金色|ロング|(無し)|普乳|白いカッターシャツ・金色のリボン・紺のプリーツスカート|無し|？|？|？|気が弱い|[JSちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-js.gif)|
 |[Java](https://ja.wikipedia.org/wiki/Java)|第1話|茶色|ロング|(無し)|巨乳|紺のブレザー・赤い「型」腕章・白いカッターシャツ・赤色のリボン・紺のプリーツスカート|無し|私|あなた|？|コーヒー好き|[Javaちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-java.gif)|
 |[C言語](https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E)|第1話|青色|ショート|「C」マーク|普乳|白いカッターシャツ・朱色のリボン・|無し|？|？|？|不思議ちゃん|[Cちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-c.gif)|
@@ -59,12 +59,12 @@
 # ストーリー
 ## 概説
 |投稿日|回数|見出し|タイトル|コマ数|解説記事|備考|
-|------|----|------|--------|------|--------|----|
+|:-----|:---|:-----|:-------|:-----|:-------|:---|
 |2015/10/14|第1回|[東京Node学園からJavaScriptが転校してきた！](https://codeiq.jp/magazine/2015/10/30057/)|転校生|6|[第1回](http://qiita.com/YSRKEN/items/b52a2b0abf72970ce95a)|SpecialThanks：[東京Node学園](http://nodejs.connpass.com/)|
 
 ## 登場回
-|回数|JavaScript|Java|C|
-|----|----------|----|-|
+|回数|JavaScript|Java|C言語|
+|:---|:---------|:---|:----|
 |第1回|○|○|○|
 
 ## 詳細
