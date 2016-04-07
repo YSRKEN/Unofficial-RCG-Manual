@@ -14,7 +14,7 @@
 		- [Rubyちゃん](#ruby%E3%81%A1%E3%82%83%E3%82%93)
 		- [Swiftちゃん](#swift%E3%81%A1%E3%82%83%E3%82%93)
 		- [Lispちゃん](#lisp%E3%81%A1%E3%82%83%E3%82%93)
-		- [C#ちゃん]()
+		- [C#ちゃん](https://github.com/YSRKEN/Unofficial-RCG-Manual#c%E3%81%A1%E3%82%83%E3%82%93-2)
 		- [Scalaちゃん](#Scala%E3%81%A1%E3%82%83%E3%82%93)
 - [ストーリー](#%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC)
 	- [概説](#%E6%A6%82%E8%AA%AC-1)
@@ -36,17 +36,17 @@
 ## 概説
 |言語名|初登場|髪色|髪長|髪留め|バスト|服装|アクセサリー|1人称|2人称|備考|サンプル画像|
 |:-----|:-----|:---|:---|:-----|:-----|:---|:-----------|:----|:----|:----|:---|:-----------|
-|[JavaScript](https://ja.wikipedia.org/wiki/JavaScript)|第1話|金色|ロング|「JS」マークのプレート|普乳|白いカッターシャツ・金色のリボン・紺のプリーツスカート|(無し)|私|？|気が弱い|![JSちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-js.gif)|
-|[Java](https://ja.wikipedia.org/wiki/Java)|第1話|茶色|ロング|(無し)|巨乳|紺のブレザー・赤色の「型」腕章・白いカッターシャツ・赤色のリボン・紺のプリーツスカート|(無し)|私|あなた|コーヒー好き|![Javaちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-java.gif)|
-|[C言語](https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E)|第1話|青色|セミロング|「C」マーク|普乳|白いカッターシャツ・朱色のリボン・|(無し)|あたし/私|きみ|不思議ちゃん|![Cちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-c.gif)|
-|[Ruby](https://ja.wikipedia.org/wiki/Ruby)|第2話|桃色|ショート・三つ編み|赤色のリボン|巨乳|白いカッターシャツ・赤色のリボン・赤灰色の上着|巨大なルビーの宝石(ブリリアントカット)のようなものを真珠らしきチェーンでぶら下げている|あたし|？|元気っ子|![Rubyちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/10/ruby.jpg)|
-|[Swift](https://ja.wikipedia.org/wiki/Swift_%28%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%29)|第2話|銀灰色|セミロング|(無し)|貧乳|黒いタートルネック|リンゴをいつも持ち歩いている|ボク|キミ|ジョブズっぽい|![Swiftちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/10/swift.jpg)|
-|[Lisp](https://ja.wikipedia.org/wiki/Lisp)|番外編(本編では第5回)|黄緑色|ロング・ツインテール|「λ」マークの髪留め・「car・cdr」リボン|貧乳|セーラー服|Lispエイリアンが忠実な部下|わらわ|そち|得体が知れない|![Lispちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/02/CodeIQ-lisp1.jpg)|
-|[C++](https://ja.wikipedia.org/wiki/C++)|第7回|赤色|ポニーテール|「C++14」マーク|普乳|白いカッターシャツ・朱色のリボン・|(無し)|ウチ|？|Boost掛けるぜ！|![C++ちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/02/0747cab24f6ef3da487bec8fa89ddc56.jpg)|
-|[C#](https://ja.wikipedia.org/wiki/C_Sharp)|第8回|淡い金色|ツインテール|緑色のリボン・「C#」マーク|巨乳|フリフリの白ブラウス・緑色のリボン・緑色のロングスカート|(無し)|わたくし|？|破天荒お嬢様|![C#ちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/03/C_pro.jpg)|
-|[Scala](https://ja.wikipedia.org/wiki/Scala)|第8回|赤色|縦ドリル1つ|「λ」マーク|巨乳？|紺の袖なしブレザー・赤色の「型」腕章・白いカッターシャツ・赤色のリボン・Scalaマーク|(無し)|？|？|オシャレさん|![Scalaちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/03/scala-pro.jpg)|
+|[JavaScript](https://ja.wikipedia.org/wiki/JavaScript)|第1話|金色|ロング|「JS」マークのプレート|普乳|白いカッターシャツ・金色のリボン・紺のプリーツスカート|(無し)|私|？|気が弱い|[JSちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-js.gif)|
+|[Java](https://ja.wikipedia.org/wiki/Java)|第1話|茶色|ロング|(無し)|巨乳|紺のブレザー・赤色の「型」腕章・白いカッターシャツ・赤色のリボン・紺のプリーツスカート|(無し)|私|あなた|コーヒー好き|[Javaちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-java.gif)|
+|[C言語](https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E)|第1話|青色|セミロング|「C」マーク|普乳|白いカッターシャツ・朱色のリボン・|(無し)|あたし/私|きみ|不思議ちゃん|[Cちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-c.gif)|
+|[Ruby](https://ja.wikipedia.org/wiki/Ruby)|第2話|桃色|ショート・三つ編み|赤色のリボン|巨乳|白いカッターシャツ・赤色のリボン・赤灰色の上着|巨大なルビーの宝石(ブリリアントカット)のようなものを真珠らしきチェーンでぶら下げている|あたし|？|元気っ子|[Rubyちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/10/ruby.jpg)|
+|[Swift](https://ja.wikipedia.org/wiki/Swift_%28%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%29)|第2話|銀灰色|セミロング|(無し)|貧乳|黒いタートルネック|リンゴをいつも持ち歩いている|ボク|キミ|ジョブズっぽい|[Swiftちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/10/swift.jpg)|
+|[Lisp](https://ja.wikipedia.org/wiki/Lisp)|番外編(本編では第5回)|黄緑色|ロング・ツインテール|「λ」マークの髪留め・「car・cdr」リボン|貧乳|セーラー服|Lispエイリアンが忠実な部下|わらわ|そち|得体が知れない|[Lispちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/02/CodeIQ-lisp1.jpg)|
+|[C++](https://ja.wikipedia.org/wiki/C++)|第7回|赤色|ポニーテール|「C++14」マーク|普乳|白いカッターシャツ・朱色のリボン・|(無し)|ウチ|？|Boost掛けるぜ！|[C++ちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/02/0747cab24f6ef3da487bec8fa89ddc56.jpg)|
+|[C#](https://ja.wikipedia.org/wiki/C_Sharp)|第8回|淡い金色|ツインテール|緑色のリボン・「C#」マーク|巨乳|フリフリの白ブラウス・緑色のリボン・緑色のロングスカート|(無し)|わたくし|？|破天荒お嬢様|[C#ちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/03/C_pro.jpg)|
+|[Scala](https://ja.wikipedia.org/wiki/Scala)|第8回|赤色|縦ドリル1つ|「λ」マーク|巨乳？|紺の袖なしブレザー・赤色の「型」腕章・白いカッターシャツ・赤色のリボン・Scalaマーク|(無し)|？|？|オシャレさん|[Scalaちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/03/scala-pro.jpg)|
 
-- 背丈……Swift＞JavaScript＝Java＝Ruby＞Lisp≒C。周囲の物体から察するに、**皆は人間並みの大きさである**
+- 背丈……Swift＞JavaScript＝Java＝Ruby＞Lisp≒C＝C++。周囲の物体から察するに、**皆は人間並みの大きさである**
 - 髪型……JSちゃんの「JS」マークは第4回が初出
 - Cちゃんの1人称……「あたし」のはずだが第7回で「私」になる辺り、**登場頻度の少なさがネックなのかもしれない**
 - 他キャラの呼称……キャラ同士の呼び合いも運動会のアナウンスも「○○ちゃん」であるため、2人称が出ることは少ない
@@ -161,8 +161,8 @@
 **[【↑目次へ】](#%E7%9B%AE%E6%AC%A1)**
 
 ## 登場回
-|回数|JavaScript|Java|C言語|Ruby|Swift|Lisp|C++|C#|Scala|
-|:---|:---------|:---|:----|:---|:----|:---||||
+|回数|JavaScript|Java|C言語|Ruby|Swift|Lisp|C++|C# |Scala|
+|:---|:---------|:---|:----|:---|:----|:---|:--|:--|:----|
 |第1回|○|○|○|||||||
 |第2回|○|○||○|○|||||
 |第3回|○|○|○|○|○|||||
