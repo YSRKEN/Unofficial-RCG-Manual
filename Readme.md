@@ -8,9 +8,11 @@
 - [キャラクター](#%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC)
 	- [概説](#%E6%A6%82%E8%AA%AC)
 	- [詳細](#%E8%A9%B3%E7%B4%B0)
-		- [JavaScriptちゃん(JSちゃん)](#javascript%E3%81%A1%E3%82%83%E3%82%93js%E3%81%A1%E3%82%83%E3%82%93)
+		- [JSちゃん](#javascript%E3%81%A1%E3%82%83%E3%82%93js%E3%81%A1%E3%82%83%E3%82%93)
 		- [Javaちゃん](#java%E3%81%A1%E3%82%83%E3%82%93)
 		- [Cちゃん](#c%E3%81%A1%E3%82%83%E3%82%93)
+		- [Rubyちゃん](#ruby%E3%81%A1%E3%82%83%E3%82%93)
+		- [Swiftちゃん](#swift%E3%81%A1%E3%82%83%E3%82%93)
 - [ストーリー](#%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC)
 	- [概説](#%E6%A6%82%E8%AA%AC-1)
 	- [登場回](#%E7%99%BB%E5%A0%B4%E5%9B%9E)
@@ -35,7 +37,7 @@
 |[Java](https://ja.wikipedia.org/wiki/Java)|第1話|茶色|ロング|(無し)|巨乳|紺のブレザー・赤色の「型」腕章・白いカッターシャツ・赤色のリボン・紺のプリーツスカート|無し|私|あなた|コーヒー好き|[Javaちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-java.gif)|
 |[C言語](https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E)|第1話|青色|セミロング|「C」マーク|普乳|白いカッターシャツ・朱色のリボン・|無し|あたし|？|不思議ちゃん|[Cちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-c.gif)|
 |[Ruby](https://ja.wikipedia.org/wiki/Ruby)|第2話|桃色|ショート＋三つ編み|赤色のリボン|巨乳|白いカッターシャツ・赤色のリボン・赤灰色の上着|巨大なルビーの宝石(ブリリアントカット)のようなものを真珠らしきチェーンでぶら下げている|？|？|元気っ子|[Rubyちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/10/ruby.jpg)|
-|[Swift](https://ja.wikipedia.org/wiki/Swift_%28%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%29)|第2話|銀灰色|セミロング|(無し)|貧乳|黒いタートルネック|リンゴをいつも持ち歩いている|ボク|？|ジョブズっぽい|[Swiftちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/10/swift.jpg)|
+|[Swift](https://ja.wikipedia.org/wiki/Swift_%28%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%29)|第2話|銀灰色|セミロング|(無し)|貧乳|黒いタートルネック|リンゴをいつも持ち歩いている|ボク|キミ|ジョブズっぽい|[Swiftちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/10/swift.jpg)|
 
 - 背丈……JavaScript≒Java＞C。周囲の物体から察するに、**皆は人間並みの大きさである**
 
