@@ -92,14 +92,16 @@
 |:-----|:---|:-----|:-------|:-----|:-------|:---|
 |2015/10/14|第1回|[東京Node学園からJavaScriptが転校してきた！](https://codeiq.jp/magazine/2015/10/30057/)|転校生|6|[第1回](http://qiita.com/YSRKEN/items/b52a2b0abf72970ce95a)|SpecialThanks：[東京Node学園](http://nodejs.connpass.com/)|
 |2015/10/28|第2回|[Ruby、Java、Swift、JavaScriptの履習届は？](https://codeiq.jp/magazine/2015/10/31456/)|履習届け|7|[第2回](http://qiita.com/YSRKEN/items/f2d09167da23048a28cb)|おまけ漫画が1つ多い|
+|2015/11/11|第3回|[秋の運動会！Java・Ruby・C・Swift・JavaScript、優勝したのは誰？](https://codeiq.jp/magazine/2015/11/33256/)|運動会|14|[第3回](http://qiita.com/YSRKEN/items/667bdd5d38943b2c08c4)|新キャラ投票が実施された|
 
-[↑目次へ](#%E7%9B%AE%E6%AC%A1)
+**[【↑目次へ】](#%E7%9B%AE%E6%AC%A1)**
 
 ## 登場回
 |回数|JavaScript|Java|C言語|Ruby|Swift|
 |:---|:---------|:---|:----|:---|:----|
 |第1回|○|○|○|||
 |第2回|○|○||○|○|
+|第3回|○|○|○|○|○|
 
 **[【↑目次へ】](#%E7%9B%AE%E6%AC%A1)**
 
