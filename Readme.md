@@ -152,7 +152,7 @@
 |2015/10/14|第1回|[東京Node学園からJavaScriptが転校してきた！](https://codeiq.jp/magazine/2015/10/30057/)|転校生|6|[第1回](http://qiita.com/YSRKEN/items/b52a2b0abf72970ce95a)|SpecialThanks：[東京Node学園](http://nodejs.connpass.com/)|
 |2015/10/28|第2回|[Ruby、Java、Swift、JavaScriptの履習届は？](https://codeiq.jp/magazine/2015/10/31456/)|履習届け|7|[第2回](http://qiita.com/YSRKEN/items/f2d09167da23048a28cb)|おまけ漫画が1つ多い|
 |2015/11/11|第3回|[秋の運動会！Java・Ruby・C・Swift・JavaScript、優勝したのは誰？](https://codeiq.jp/magazine/2015/11/33256/)|運動会|14|[第3回](http://qiita.com/YSRKEN/items/667bdd5d38943b2c08c4)|新キャラ投票が実施された|
-|2015/11/25|第4回|[本日の調理実習は「スパゲッティコード」です。](https://codeiq.jp/magazine/2015/11/33256/)|調理実習|8|[第4回](http://qiita.com/YSRKEN/items/c209182b17f19d5ae937)|おまけ問題にgoto封じの工夫が施されている。ワザとgoto入りの文を提出してみることを推奨|
+|2015/11/25|第4回|[本日の調理実習は「スパゲッティコード」です。](https://codeiq.jp/magazine/2015/11/34020/)|調理実習|8|[第4回](http://qiita.com/YSRKEN/items/c209182b17f19d5ae937)|おまけ問題にgoto封じの工夫が施されている。ワザとgoto入りの文を提出してみることを推奨|
 |2015/12/14|番外編|[Emacsこそ至高じゃ！新キャラ投票1位Lisp登場](https://codeiq.jp/magazine/2015/12/35252/)|あらゆるニーズに対応可能！？神秘の新キャラLispちゃん登場！|3(+3)|[番外編](http://qiita.com/YSRKEN/items/628d2a10e593b9b01d14)|[投票結果](https://codeiq.jp/magazine/2015/11/33717/)よりLispちゃんが新規参戦|
 |2015/12/28|第5回|[世界中に届け！Lispサンタの超ロジスティック配送](https://codeiq.jp/magazine/2015/12/35872/)|クリスマス|14|[第5回](http://qiita.com/YSRKEN/items/ed787ed6827e8a89bf15)|おまけ問題を解けばクリスマス壁紙が貰える|
 |2016/1/29|第6回|[プログラマの職業病、腰痛は椅子で撃退できる？](https://codeiq.jp/magazine/2016/01/37035/)|イス|11|[第6回](http://qiita.com/YSRKEN/items/4357ed52a45ce7aac97e)|おまけ問題が[ぬるぽ](http://dic.nicovideo.jp/a/%E3%81%AC%E3%82%8B%E3%81%BD)|
