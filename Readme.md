@@ -46,7 +46,7 @@
 |[C++](https://ja.wikipedia.org/wiki/C++)|第7回|赤色|ポニーテール|「C++14」マーク|普乳|白いカッターシャツ・朱色のリボン・|(無し)|ウチ|？|Boost掛けるぜ！|[C++ちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/02/0747cab24f6ef3da487bec8fa89ddc56.jpg)|
 |[C#](https://ja.wikipedia.org/wiki/C_Sharp)|第8回|淡い金色|ツインテール|緑色のリボン・「C#」マーク|巨乳|フリフリの白ブラウス・緑色のリボン・緑色のロングスカート|(無し)|わたくし|貴女|破天荒お嬢様|[C#ちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/03/C_pro.jpg)|
 |[Scala](https://ja.wikipedia.org/wiki/Scala)|第8回|赤色|縦ドリル1つ|「λ」マーク|巨乳？|紺の袖なしブレザー・赤色の「型」腕章・白いカッターシャツ・赤色のリボン・Scalaマーク|(無し)|？|？|オシャレさん|[Scalaちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/03/scala-pro.jpg)|
-|[PHP](https://ja.wikipedia.org/wiki/PHP:_Hypertext_Preprocessor)|第9回|紫色|右サイドテール|白色のリボンのように見えるアンテナ・「PHP」マーク|貧乳|黒インナー(前ファスナー)・黒ショートパンツ・白Yシャツ・黒ネクタイ|(無し)|ボク|？|電波系アンドロイド|[PHPちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/06/php-1.jpg)|
+|[PHP](https://ja.wikipedia.org/wiki/PHP:_Hypertext_Preprocessor)|第9回|青紫色|右サイドテール|白色のリボンのように見えるアンテナ・「PHP」マーク|貧乳|黒インナー(前ファスナー)・黒ショートパンツ・白Yシャツ・黒ネクタイ|(無し)|ボク|？|電波系アンドロイド|[PHPちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/06/php-1.jpg)|
 
 - 背丈……Swift＞JavaScript＝Java＝Ruby＞Lisp≒C＝C++。周囲の物体から察するに、**皆は人間並みの大きさである**
 - 髪型……JSちゃんの「JS」マークは第4回が初出
@@ -160,7 +160,7 @@
 - ElePHPant(エレファント)という象を飼っている。**言うまでもなくロゴネタ**
 - Web系言語繋がりで、JavaScriptちゃんは彼女のことをよく知っているようだ
 - **教卓の高さを900mm、教壇の高さを150mmとすると身長は150cmぐらい？**
-- **[髪が紫色なのはPHPのロゴ由来](https://twitter.com/chomado/status/746355572295901184)**
+- **[髪が青紫色なのはPHPのロゴ由来](https://twitter.com/chomado/status/746355572295901184)**
 - **ちなみにちょまど氏は[比較演算子周りで挫折した](https://twitter.com/chomado/status/539289392515670016)経験持ちだが、それ以降も時々PHPを触っていたようである。そして、[ちょまどbot](https://twitter.com/chomado_bot?lang=ja)を書いているうちに[好意がそれなりに回復した](https://twitter.com/chomado/status/558060064809172992)ようだ**
 
 **[【↑目次へ】](#%E7%9B%AE%E6%AC%A1)**
