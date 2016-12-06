@@ -1,4 +1,4 @@
-<h1>「はしれ！コード学園」の元ネタまとめ【第1回】</h1>
+#「はしれ！コード学園」の元ネタまとめ【第1回】
 
 非公式設定資料集(トップページ)  
 https://github.com/YSRKEN/Unofficial-RCG-Manual
