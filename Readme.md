@@ -182,7 +182,7 @@
 |2016/3/29|第8回|[C#が織りなすバーチャル・リアルティの世界へ、ようこそ！](https://codeiq.jp/magazine/2016/03/39291/)|VRはいいぞ|12|[第8回](http://qiita.com/YSRKEN/items/0dc19fa14e6cef5cec23)|SpecialThanks：キャラデザ監修：[岩永信之](http://ufcpp.net/about_me/)|
 |2016/4/15|de:code編|[C#が３分解説☆今年のde:codeは行くしかない！](https://codeiq.jp/magazine/2016/04/39858/)|de:codeをPRしちゃうわよ！|12|[de:code編](http://qiita.com/YSRKEN/items/42007da102b9e7cbb376)|おまけ問題を解けば壁紙と、抽選でde:codeのチケットが貰える|
 |2016/6/24|第9回|[ヒャッハー！転入生PHPは電波系アンドロイド！？](https://codeiq.jp/magazine/2016/06/42388/)|PHPちゃんが転入してきた|12|[第9回](http://qiita.com/YSRKEN/items/c467e12eb158ebdeb413)|本来[ただの4コマ紹介漫画の予定](https://twitter.com/chomado/status/740189865921236992)だった|
-|2016/8/24|社畜ちゃん編|[「社畜ちゃん、○○はいいぞ」開発言語に迷ったらWEB開発三銃士をどうぞ！](https://codeiq.jp/magazine/2016/08/43587/)|社畜ちゃんとコード学園ガールズ|29|[社畜ちゃん編](http://qiita.com/YSRKEN/items/33e306657e79f3ab0f4c)|備考|
+|2016/8/24|社畜ちゃん編|[「社畜ちゃん、○○はいいぞ」開発言語に迷ったらWEB開発三銃士をどうぞ！](https://codeiq.jp/magazine/2016/08/43587/)|社畜ちゃんとコード学園ガールズ|29|[社畜ちゃん編](http://qiita.com/YSRKEN/items/33e306657e79f3ab0f4c)|作画：[結うき。](https://twitter.com/yuki_limit)氏、原作：[ビタワン](https://twitter.com/vitaone_)氏|
 
 **[【↑目次へ】](#%E7%9B%AE%E6%AC%A1)**
 
@@ -231,4 +231,5 @@ SPに固められた超お嬢様学校でもないと不自然である。また
 - de:code編では**「これ描いてるちょまど氏が」**などといったメタ発言も登場した。
 - de:code編と第9回の間に、[RubyちゃんのMMDモデルの配布](https://codeiq.jp/q/2809)が行われた。  
 - 社畜ちゃん編は、作画を[結うき。](https://twitter.com/yuki_limit)氏、原作を[ビタワン](https://twitter.com/vitaone_)氏が担当している
+
 **[【↑目次へ】](#%E7%9B%AE%E6%AC%A1)**
