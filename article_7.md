@@ -19,6 +19,7 @@ https://github.com/YSRKEN/Unofficial-RCG-Manual
 ## 2-3コマ目
 - 再帰的な攻撃……**もちろん再帰はC言語でも使えます**が、そもそもLispでは[繰り返しを再帰で表現する](http://www.geocities.jp/m_hiroi/xyzzy_lisp/abclisp03.html)など、昔から再帰がなじみ深い存在でした。凄まじくシンプルな文法のバックボーンとして再帰が暗躍していたのです。
 - 作画ミス？……消しゴムツールで消した後に輪郭線を引き忘れたかのような部分がありますが、演出として残しているのでしょうか？
+
 ![CodeIQ-2.png](https://qiita-image-store.s3.amazonaws.com/0/29802/09a61f5c-2ad5-7720-0fb1-a731b0fd0ba8.png)
 
 **補足：**ちょまど氏によると、[作画ミスというよりは、背景のLispちゃんを見せるために消しゴムを掛けたらちょうどよくなったのでそのままにした](https://twitter.com/chomado/status/699462280157622272)とのこと。

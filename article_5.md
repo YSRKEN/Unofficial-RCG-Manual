@@ -27,6 +27,7 @@ https://github.com/YSRKEN/Unofficial-RCG-Manual
 - Rubyのパパはサンタさん……「サンタさんが実は両親である」ということはよくあることですが、**その斜め上を行くセリフですね。**真意は最終コマで明らかになります。
 - わらわがサンタじゃ……**[俺が、俺たちが、サンタクロースだ！！](http://dic.nicovideo.jp/a/%E4%BF%BA%E3%81%8C%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%81%A0)**　……えっと、この一人称は、[ちょまどさんのアンケート](https://twitter.com/chomado/status/681106255134326784)によって決められました。また、このフレーズの語源は、シナリオのセオジョージさん曰く[島本和彦さん](http://www.nicovideo.jp/watch/sm152470)からだそうです。
 - W3なんたらのロゴ……**どう見てもW3Cです**。本当にありがとうございました。
+
 ![W3C](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/W3C%C2%AE_Icon.svg/314px-W3C%C2%AE_Icon.svg.png)
 
 ##4・5コマ目

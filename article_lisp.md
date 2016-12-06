@@ -13,15 +13,15 @@ https://github.com/YSRKEN/Unofficial-RCG-Manual
 
 #新キャラ投票編
 まず、投票結果を引用してみましょう。
-> 1位　Lispちゃん　149票
-> 2位　PHPちゃん　135票
-> 3位　Pythonちゃん　134票
-> 4位　Dちゃん　126票
-> 5位　Haskellちゃん　125票
-> 6位　Scalaちゃん　66票
-> 7位　ActionScriptちゃん　62票
-> 8位　Goちゃん　60票
-> 9位　Perlちゃん　56票
+> 1位　Lispちゃん　149票  
+> 2位　PHPちゃん　135票  
+> 3位　Pythonちゃん　134票  
+> 4位　Dちゃん　126票  
+> 5位　Haskellちゃん　125票  
+> 6位　Scalaちゃん　66票  
+> 7位　ActionScriptちゃん　62票  
+> 8位　Goちゃん　60票  
+> 9位　Perlちゃん　56票  
 > おまけ　BFちゃん　55票
 
 　1位が[Lisp](http://lambda.bugyo.tk/cdr/mwl/)なのは見ての通りですが、他のメンバーもなかなか濃いものが揃っています。言語面ではなく擬人化方面で見ていくと、Dちゃんには**既にD言語くんがいます**し、**[Haskellちゃんは一応既出](http://chomado.com/work/picture/programming_language-tan/)**ですね。[CodeIQ](https://codeiq.jp/)と同じく[リクルート](http://www.recruit.jp/)な[Tech総研](http://next.rikunabi.com/tech_souken/)では[擬人化計画が2回に分けて紹介されていた](http://next.rikunabi.com/tech_souken/entry/ct_s03600p002477)ので、**コアな方は**既にご存知でしょう。  
