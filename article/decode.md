@@ -52,7 +52,7 @@ https://github.com/YSRKEN/Unofficial-RCG-Manual
 - 「決して安いといえる参加費ではありません」……MS「我々は皆様に最新技術に触れるという**未曾有のチャンス**を与えているのです。カンファレンスに8万円近く投資するぐらい、その未曾有のチャンスを考えれば安いもの。8万円は**[非常にリーズナブル、良心的価格でございます](http://fukumoto.lsx3.net/?%CC%DB%BC%A8%CF%BF%2F%B4%F5%CB%BE%A4%CE%C1%A5#scaa0a74)**」
 - **「それまでにちょまど氏のコミュ障治ってると良いね！」**……この前のニコ生でも[直前まで机の下に隠れていた](https://twitter.com/chomado/status/715406962695938048)そうなので**お察し下さい**
 
-![2016-04-15_212319.png](https://qiita-image-store.s3.amazonaws.com/0/29802/c69e00b2-7f25-088b-0231-8dda5bdc024c.png)
+![2016-04-15_212319.png](https://cloud.githubusercontent.com/assets/3734392/20917707/6be7abea-bbd6-11e6-86fb-b86283f873de.png)
 
 # まとめ
 　**[3日間徹夜した](https://twitter.com/chomado/status/720935981059170304)**とちょまど氏は[何度も明言](https://twitter.com/chomado/status/720826861484269572)していました。理由としては**[スケジュールがタイトだったから](https://twitter.com/chomado/status/720843363398758400)**ということで、彼女の苦労が窺い知れます。その結果、(Xamarinのおかげだと思いますが)**C#ちゃんについてはガンガン新規絵が出ていました**ので、C#ちゃんクラスタには大満足の記事だったのではないでしょうか。

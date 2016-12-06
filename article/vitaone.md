@@ -46,7 +46,7 @@ https://github.com/YSRKEN/Unofficial-RCG-Manual
 
 　一口に『Webシステム』と言っても、その構成要素は様々あります。サーバー・LANケーブル・ハブなどの**ハードウェア**の存在もさることながら、その内部で動作する種々の**ソフトウェア**も同等に重要です。『種々』がどれぐらいあるかは、例えば次のスライドをご覧ください。
 
-![2016-08-25_110146.png](https://qiita-image-store.s3.amazonaws.com/0/29802/4481d81f-d663-5a36-b5ad-50912f8b1dcf.png)
+![2016-08-25_110146.png](https://cloud.githubusercontent.com/assets/3734392/20917714/7b6b8172-bbd6-11e6-8019-9a0cb7469f14.png)
 
 ([『Muninではじめる実践★リソース監視　-俺のサーバがこんなに重いはずがない、を乗り切るために- 』(
 Masahito Zembutsu,)](http://www.slideshare.net/zembutsu/practical-resource-monitoring-with-munin)より引用。説明の都合上、スライドの周囲を縁取りした)
