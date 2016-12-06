@@ -171,18 +171,18 @@
 ## 概説
 |投稿日|回数|見出し|タイトル|コマ数|解説記事|備考|
 |:-----|:---|:-----|:-------|:-----|:-------|:---|
-|2015/10/14|第1回|[東京Node学園からJavaScriptが転校してきた！](https://codeiq.jp/magazine/2015/10/30057/)|転校生|6|[第1回](http://qiita.com/YSRKEN/items/b52a2b0abf72970ce95a)|SpecialThanks：[東京Node学園](http://nodejs.connpass.com/)|
-|2015/10/28|第2回|[Ruby、Java、Swift、JavaScriptの履習届は？](https://codeiq.jp/magazine/2015/10/31456/)|履習届け|7|[第2回](http://qiita.com/YSRKEN/items/f2d09167da23048a28cb)|おまけ漫画が1つ多い|
-|2015/11/11|第3回|[秋の運動会！Java・Ruby・C・Swift・JavaScript、優勝したのは誰？](https://codeiq.jp/magazine/2015/11/33256/)|運動会|14|[第3回](http://qiita.com/YSRKEN/items/667bdd5d38943b2c08c4)|新キャラ投票が実施された|
-|2015/11/25|第4回|[本日の調理実習は「スパゲッティコード」です。](https://codeiq.jp/magazine/2015/11/34020/)|調理実習|8|[第4回](http://qiita.com/YSRKEN/items/c209182b17f19d5ae937)|おまけ問題にgoto封じの工夫が施されている。ワザとgoto入りの文を提出してみることを推奨|
-|2015/12/14|Lisp編|[Emacsこそ至高じゃ！新キャラ投票1位Lisp登場](https://codeiq.jp/magazine/2015/12/35252/)|あらゆるニーズに対応可能！？神秘の新キャラLispちゃん登場！|3(+3)|[Lisp編](http://qiita.com/YSRKEN/items/628d2a10e593b9b01d14)|[投票結果](https://codeiq.jp/magazine/2015/11/33717/)よりLispちゃんが新規参戦|
-|2015/12/28|第5回|[世界中に届け！Lispサンタの超ロジスティック配送](https://codeiq.jp/magazine/2015/12/35872/)|クリスマス|14|[第5回](http://qiita.com/YSRKEN/items/ed787ed6827e8a89bf15)|おまけ問題を解けばクリスマス壁紙が貰える|
-|2016/1/29|第6回|[プログラマの職業病、腰痛は椅子で撃退できる？](https://codeiq.jp/magazine/2016/01/37035/)|イス|11|[第6回](http://qiita.com/YSRKEN/items/4357ed52a45ce7aac97e)|おまけ問題が[ぬるぽ](http://dic.nicovideo.jp/a/%E3%81%AC%E3%82%8B%E3%81%BD)|
-|2016/2/15|第7回|[最強言語は誰？プログラミング言語☆天下一武道会](https://codeiq.jp/magazine/2016/02/37597/)|たたかえ！コード学園|22|[第7回](http://qiita.com/YSRKEN/items/79754518f512e7525a0a)|[知っているのか雷電メソッド](https://twitter.com/theodoorjp/status/699467382025117698)が使用された|
-|2016/3/29|第8回|[C#が織りなすバーチャル・リアルティの世界へ、ようこそ！](https://codeiq.jp/magazine/2016/03/39291/)|VRはいいぞ|12|[第8回](http://qiita.com/YSRKEN/items/0dc19fa14e6cef5cec23)|SpecialThanks：キャラデザ監修：[岩永信之](http://ufcpp.net/about_me/)|
-|2016/4/15|de:code編|[C#が３分解説☆今年のde:codeは行くしかない！](https://codeiq.jp/magazine/2016/04/39858/)|de:codeをPRしちゃうわよ！|12|[de:code編](http://qiita.com/YSRKEN/items/42007da102b9e7cbb376)|おまけ問題を解けば壁紙と、抽選でde:codeのチケットが貰える|
-|2016/6/24|第9回|[ヒャッハー！転入生PHPは電波系アンドロイド！？](https://codeiq.jp/magazine/2016/06/42388/)|PHPちゃんが転入してきた|12|[第9回](http://qiita.com/YSRKEN/items/c467e12eb158ebdeb413)|本来[ただの4コマ紹介漫画の予定](https://twitter.com/chomado/status/740189865921236992)だった|
-|2016/8/24|社畜ちゃん編|[「社畜ちゃん、○○はいいぞ」開発言語に迷ったらWEB開発三銃士をどうぞ！](https://codeiq.jp/magazine/2016/08/43587/)|社畜ちゃんとコード学園ガールズ|29|[社畜ちゃん編](http://qiita.com/YSRKEN/items/33e306657e79f3ab0f4c)|作画：[結うき。](https://twitter.com/yuki_limit)氏、<br>原作：[ビタワン](https://twitter.com/vitaone_)氏|
+|2015/10/14|第1回|[東京Node学園からJavaScriptが転校してきた！](https://codeiq.jp/magazine/2015/10/30057/)|転校生|6|[第1回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/1.md)|SpecialThanks：[東京Node学園](http://nodejs.connpass.com/)|
+|2015/10/28|第2回|[Ruby、Java、Swift、JavaScriptの履習届は？](https://codeiq.jp/magazine/2015/10/31456/)|履習届け|7|[第2回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/2.md)|おまけ漫画が1つ多い|
+|2015/11/11|第3回|[秋の運動会！Java・Ruby・C・Swift・JavaScript、優勝したのは誰？](https://codeiq.jp/magazine/2015/11/33256/)|運動会|14|[第3回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/3.md)|新キャラ投票が実施された|
+|2015/11/25|第4回|[本日の調理実習は「スパゲッティコード」です。](https://codeiq.jp/magazine/2015/11/34020/)|調理実習|8|[第4回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/4.md)|おまけ問題にgoto封じの工夫が施されている。ワザとgoto入りの文を提出してみることを推奨|
+|2015/12/14|Lisp編|[Emacsこそ至高じゃ！新キャラ投票1位Lisp登場](https://codeiq.jp/magazine/2015/12/35252/)|あらゆるニーズに対応可能！？神秘の新キャラLispちゃん登場！|3(+3)|[Lisp編](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/lisp.md)|[投票結果](https://codeiq.jp/magazine/2015/11/33717/)よりLispちゃんが新規参戦|
+|2015/12/28|第5回|[世界中に届け！Lispサンタの超ロジスティック配送](https://codeiq.jp/magazine/2015/12/35872/)|クリスマス|14|[第5回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/5.md)|おまけ問題を解けばクリスマス壁紙が貰える|
+|2016/1/29|第6回|[プログラマの職業病、腰痛は椅子で撃退できる？](https://codeiq.jp/magazine/2016/01/37035/)|イス|11|[第6回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/6.md)|おまけ問題が[ぬるぽ](http://dic.nicovideo.jp/a/%E3%81%AC%E3%82%8B%E3%81%BD)|
+|2016/2/15|第7回|[最強言語は誰？プログラミング言語☆天下一武道会](https://codeiq.jp/magazine/2016/02/37597/)|たたかえ！コード学園|22|[第7回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/7.md)|[知っているのか雷電メソッド](https://twitter.com/theodoorjp/status/699467382025117698)が使用された|
+|2016/3/29|第8回|[C#が織りなすバーチャル・リアルティの世界へ、ようこそ！](https://codeiq.jp/magazine/2016/03/39291/)|VRはいいぞ|12|[第8回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/8.md)|SpecialThanks：キャラデザ監修：[岩永信之](http://ufcpp.net/about_me/)|
+|2016/4/15|de:code編|[C#が３分解説☆今年のde:codeは行くしかない！](https://codeiq.jp/magazine/2016/04/39858/)|de:codeをPRしちゃうわよ！|12|[de:code編](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/decode.md)|おまけ問題を解けば壁紙と、抽選でde:codeのチケットが貰える|
+|2016/6/24|第9回|[ヒャッハー！転入生PHPは電波系アンドロイド！？](https://codeiq.jp/magazine/2016/06/42388/)|PHPちゃんが転入してきた|12|[第9回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/9.md)|本来[ただの4コマ紹介漫画の予定](https://twitter.com/chomado/status/740189865921236992)だった|
+|2016/8/24|社畜ちゃん編|[「社畜ちゃん、○○はいいぞ」開発言語に迷ったらWEB開発三銃士をどうぞ！](https://codeiq.jp/magazine/2016/08/43587/)|社畜ちゃんとコード学園ガールズ|29|[社畜ちゃん編](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/vitaone.md)|作画：[結うき。](https://twitter.com/yuki_limit)氏、<br>原作：[ビタワン](https://twitter.com/vitaone_)氏|
 
 **[【↑目次へ】](#%E7%9B%AE%E6%AC%A1)**
 
