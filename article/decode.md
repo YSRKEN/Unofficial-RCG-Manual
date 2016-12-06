@@ -48,7 +48,7 @@ https://github.com/YSRKEN/Unofficial-RCG-Manual
 - 「Bash on Windows」……ところでこれ、まだ試していませんが**[clang](http://dev.classmethod.jp/references/llvm-clang-ios8-introduction/)は動くのでしょうか？**
 - 「C#の祖父はMicrosoft」……恐らく父親は[アンダース・ヘルスバーグ](http://matarillo.com/general/hejlsberg_interview.php)その人でしょう。この人はTurbo PascalやDelphiの開発者でもありますので、**なんでC#だとPascal記法**(各単語の頭文字を大文字で記述する命名規則)**ばっかなんだよ！**と思った際はそのことを思い出してください
 - Javaちゃんは今回もツッコミ役……このままじゃ過労死しかねないのでやめて差し上げろ(棒)
-- クラウディアさんが公式出演……[第1回まとめ記事](http://qiita.com/YSRKEN/items/b52a2b0abf72970ce95a)に「クラウディア・窓辺さんかもしれませんが確証が持てません」と書きましたが、**図らずも事実になってしまいました。**やったぜ。ちなみに[ちょまど氏は年賀状にクラウディアさんを描いています](https://twitter.com/chomado/status/682949239253516291)が、マイクロソフト入社に関係しているか、それとも単なる趣味だったのかは不明です
+- クラウディアさんが公式出演……[第1回まとめ記事](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/1.md)に「クラウディア・窓辺さんかもしれませんが確証が持てません」と書きましたが、**図らずも事実になってしまいました。**やったぜ。ちなみに[ちょまど氏は年賀状にクラウディアさんを描いています](https://twitter.com/chomado/status/682949239253516291)が、マイクロソフト入社に関係しているか、それとも単なる趣味だったのかは不明です
 - 「決して安いといえる参加費ではありません」……MS「我々は皆様に最新技術に触れるという**未曾有のチャンス**を与えているのです。カンファレンスに8万円近く投資するぐらい、その未曾有のチャンスを考えれば安いもの。8万円は**[非常にリーズナブル、良心的価格でございます](http://fukumoto.lsx3.net/?%CC%DB%BC%A8%CF%BF%2F%B4%F5%CB%BE%A4%CE%C1%A5#scaa0a74)**」
 - **「それまでにちょまど氏のコミュ障治ってると良いね！」**……この前のニコ生でも[直前まで机の下に隠れていた](https://twitter.com/chomado/status/715406962695938048)そうなので**お察し下さい**
 

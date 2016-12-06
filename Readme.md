@@ -219,7 +219,7 @@ SPに固められた超お嬢様学校でもないと不自然である。また
 更に、**Full GCしたりライブラリをインストールしたりできる**のも人間としては非常に怪しい……~~
 - と言っていたが、第9回で**『ついに「人間ではない」キャラクターが登場してしまいました』**との爆弾発言。  
 このことから、**少なくともLispちゃんとPHPちゃん以外は人間である**ことが判明した。嘘やん……
-- 第1回でちょこっとだけ[クラウディア窓辺](https://msdn.microsoft.com/ja-jp/claudia00_01.aspx)が登場している([第1回の時点では疑惑だった](http://qiita.com/YSRKEN/items/b52a2b0abf72970ce95a)が、de:code編で公式化した。[第9回](https://codeiq.jp/magazine/2016/06/42388/)にも登場)
+- 第1回でちょこっとだけ[クラウディア窓辺](https://msdn.microsoft.com/ja-jp/claudia00_01.aspx)が登場している([第1回の時点では疑惑だった](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/1.md)が、de:code編で公式化した。[第9回](https://codeiq.jp/magazine/2016/06/42388/)にも登場)
 - 第4回では調理実習なので各自髪を結んでいたが、JSちゃんがツインテール・Swiftちゃんがポニーテールなのに  
 **なんとJavaちゃんは髪を結んでいない！**
 - Lisp編の投票ではLisp＞PHP＞Python＞D言語＞Haskell≫その他だったが、**第8回で投入された新キャラはC#とScalaだった。**  
