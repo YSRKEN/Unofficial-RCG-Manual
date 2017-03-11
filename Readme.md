@@ -14,7 +14,8 @@
 		- [Rubyちゃん](#ruby%E3%81%A1%E3%82%83%E3%82%93)
 		- [Swiftちゃん](#swift%E3%81%A1%E3%82%83%E3%82%93)
 		- [Lispちゃん](#lisp%E3%81%A1%E3%82%83%E3%82%93)
-		- [C#ちゃん](#c%E3%81%A1%E3%82%83%E3%82%93-2)
+		- [C++ちゃん](#c%E3%81%A1%E3%82%83%E3%82%93-2)
+		- [C#ちゃん](#c%E3%81%A1%E3%82%83%E3%82%93-3)
 		- [Scalaちゃん](#scala%E3%81%A1%E3%82%83%E3%82%93)
 		- [PHPちゃん](#php%E3%81%A1%E3%82%83%E3%82%93)
 - [ストーリー](#%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC)
@@ -44,9 +45,9 @@
 |[Ruby](https://ja.wikipedia.org/wiki/Ruby)|第2話|桃色|ショート・三つ編み|赤色のリボン|巨乳|白いカッターシャツ・赤色のリボン・赤灰色の上着|巨大なルビーの宝石(ブリリアントカット)のようなものを真珠らしきチェーンでぶら下げている|あたし|？|元気っ子|[Rubyちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/10/ruby.jpg)|
 |[Swift](https://ja.wikipedia.org/wiki/Swift_%28%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%29)|第2話|銀灰色|セミロング|(無し)|貧乳|黒いタートルネック|リンゴをいつも持ち歩いている|ボク|キミ|ジョブズっぽい|[Swiftちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/10/swift.jpg)|
 |[Lisp](https://ja.wikipedia.org/wiki/Lisp)|番外編(本編では第5回)|黄緑色|ロング・ツインテール|「λ」マークの髪留め・「car・cdr」リボン|貧乳|セーラー服|Lispエイリアンが忠実な部下|わらわ|そち|得体が知れない|[Lispちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/02/CodeIQ-lisp1.jpg)|
-|[C++](https://ja.wikipedia.org/wiki/C++)|第7回|赤色|ポニーテール|「C++14」マーク|普乳|白いカッターシャツ・朱色のリボン・|(無し)|ウチ|？|Boost掛けるぜ！|[C++ちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/02/0747cab24f6ef3da487bec8fa89ddc56.jpg)|
+|[C++](https://ja.wikipedia.org/wiki/C++)|第7回|赤色|ポニーテール|「C++14」マーク|普乳|白いカッターシャツ・朱色のリボン・「Boost」のマーク|(無し)|ウチ|？|Boost掛けるぜ！|[C++ちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/02/0747cab24f6ef3da487bec8fa89ddc56.jpg)|
 |[C#](https://ja.wikipedia.org/wiki/C_Sharp)|第8回|淡い金色|ツインテール|緑色のリボン・「C#」マーク|巨乳|フリフリの白ブラウス・緑色のリボン・緑色のロングスカート|(無し)|わたくし|貴女|破天荒お嬢様|[C#ちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/03/C_pro.jpg)|
-|[Scala](https://ja.wikipedia.org/wiki/Scala)|第8回|赤色|縦ドリル1つ|「λ」マーク|巨乳？|紺の袖なしブレザー・赤色の「型」腕章・白いカッターシャツ・赤色のリボン・Scalaマーク|(無し)|？|？|オシャレさん|[Scalaちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/03/scala-pro.jpg)|
+|[Scala](https://ja.wikipedia.org/wiki/Scala)|第8回|赤色|縦ドリル1つ|「λ」マーク|巨乳？|紺の袖なしブレザー・赤色の「型」腕章・白いカッターシャツ・赤色のリボン・「Scala」のマーク|(無し)|？|？|オシャレさん|[Scalaちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/03/scala-pro.jpg)|
 |[PHP](https://ja.wikipedia.org/wiki/PHP:_Hypertext_Preprocessor)|第9回|青紫色|左サイドテール|白色のリボンのように見えるアンテナ・「PHP」マーク|貧乳|黒インナー(前ファスナー)・黒ショートパンツ・白Yシャツ・黒ネクタイ|(無し)|ボク|？|電波系アンドロイド|[PHPちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/06/php-1.jpg)|
 
 - 背丈……Swift＞JavaScript＝Java＝Ruby＞Lisp≒C＝C++。周囲の物体から察するに、**皆は人間並みの大きさである**
