@@ -30,6 +30,7 @@
 |Twitter|[@chomado](https://twitter.com/chomado)|[@theodoorjp](https://twitter.com/theodoorjp)|
 |Webサイト|[ちょまど帳](http://chomado.com/)|[セオ商事](http://theodoor.jp/)|
 |本職|[Microsoftエバンジェリスト](https://codeiq.jp/magazine/2016/03/39334/)|[エンジニア / クリエイティブディレクター](http://theodoor.jp/about)|
+
 ※この2名を含めた「はしれ！コード学園製作チーム」により、作品が**隔週で**作られている。  
 なお、[タイトルにおける「はしれ！」の部分はちょまど氏発案](https://twitter.com/chomado/status/746325284450762752)。
 
@@ -37,6 +38,7 @@
 
 # キャラクター
 ## 概説
+
 |言語名|初登場|髪色|髪長|髪飾り|バスト|服装|アクセサリー|1人称|2人称|備考|サンプル画像|
 |:-----|:-----|:---|:---|:-----|:-----|:---|:-----------|:----|:----|:----|:---|:-----------|
 |[JavaScript](https://ja.wikipedia.org/wiki/JavaScript)|第1話|金色|ロング|「JS」マークのプレート|普乳|白いカッターシャツ・金色のリボン・紺のプリーツスカート|(無し)|私|？|気が弱い|[JSちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-js.gif)|
