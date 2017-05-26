@@ -230,8 +230,7 @@ SPに固められた超お嬢様学校でもないと不自然である。また
 ## 第1回
 
 - 第1回でちょこっとだけ[クラウディア窓辺](https://msdn.microsoft.com/ja-jp/claudia00_01.aspx)が登場している([第1回の時点では疑惑だった](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/1.md)が、de:code編で公式化した。[第9回](https://codeiq.jp/magazine/2016/06/42388/)にも登場)
-- なぜかこの回が[中国語に訳され紹介された](https://kheresy.wordpress.com/2017/01/05/code-school/)ことがある。  
-これには[ちょまど氏](https://twitter.com/chomado/status/865388169251901441)や[セオジョージ氏](https://twitter.com/theodoorjp/status/865405630718156800)も驚いた模様。  
+- なぜかこの回が[中国語に訳され紹介された](https://kheresy.wordpress.com/2017/01/05/code-school/)ことがある。これには[ちょまど氏](https://twitter.com/chomado/status/865388169251901441)や[セオジョージ氏](https://twitter.com/theodoorjp/status/865405630718156800)も驚いた模様。  
 ちなみに翻訳した人は[KHeresy氏](https://twitter.com/KHeresy)で、後に[ちょまど氏がKHeresy氏にコンタクトを取った](https://twitter.com/chomado/status/865389498011537408)
 - 中国語での紹介記事は↑以外に[もう一つある](https://www.zhihu.com/question/46451192/answer/134042900)。こちらは最初からCopyrightが付いている
 
@@ -241,19 +240,17 @@ SPに固められた超お嬢様学校でもないと不自然である。また
 
 ## 第4回
 
-- 第4回では調理実習なので各自髪を結んでいたが、JSちゃんがツインテール・Swiftちゃんがポニーテールなのに  
-**なんとJavaちゃんは髪を結んでいない！**
+- 第4回では調理実習なので各自髪を結んでいたが、JSちゃんがツインテール・Swiftちゃんがポニーテールなのに**なんとJavaちゃんは髪を結んでいない！**
 
 ## Lisp編
 
-- Lisp編の投票ではLisp＞PHP＞Python＞D言語＞Haskell≫その他だったが、**第8回で投入された新キャラはC#とScalaだった。**  
-このことから、この投票では純粋に**1位の結果しか使う気がなかった**と推測される  
+- Lisp編の投票ではLisp＞PHP＞Python＞D言語＞Haskell≫その他だったが、**第8回で投入された新キャラはC#とScalaだった。**このことから、この投票では純粋に**1位の結果しか使う気がなかった**と推測される。  
 ……ただ、第9回でPHPが来たため、今後Pythonちゃんも来るのかもしれない
 
 ## 第5回
 
 - 第5回＋おまけ壁紙執筆でちょまど氏は相当疲弊したらしく、第6回の公開が(隔週連載にも関わらず)**約一ヶ月後までずれ込んだ**
-- 第5回におけるサンタ会社のマークが五角形なのは、**[某企業に似せて書いてたらダメ出しを食らって修正した](https://twitter.com/chomado/status/681395801462013952)**からだそうな
+- 第5回におけるサンタ会社のマークが五角形なのは、[**某企業に似せて書いてたらダメ出しを食らって修正した**](https://twitter.com/chomado/status/681395801462013952) からだそうな
 
 ## その他
 
