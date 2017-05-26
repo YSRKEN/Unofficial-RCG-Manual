@@ -26,7 +26,7 @@
 # 制作陣
 |項目|マンガ|シナリオ|
 |:---|:-----|:-------|
-|ペンネーム|ちょまど|セオジョージ|
+|ペンネーム|ちょまど|セオショージ|
 |Twitter|[@chomado](https://twitter.com/chomado)|[@theodoorjp](https://twitter.com/theodoorjp)|
 |Webサイト|[ちょまど帳](http://chomado.com/)|[セオ商事](http://theodoor.jp/)|
 |本職|[Microsoftエバンジェリスト](https://codeiq.jp/magazine/2016/03/39334/)|[エンジニア / クリエイティブディレクター](http://theodoor.jp/about)|
@@ -231,7 +231,7 @@ SPに固められた超お嬢様学校でもないと不自然である。また
 ## 第1回
 
 - 第1回でちょこっとだけ[クラウディア窓辺](https://msdn.microsoft.com/ja-jp/claudia00_01.aspx)が登場している([第1回の時点では疑惑だった](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/1.md)が、de:code編で公式化した。[第9回](https://codeiq.jp/magazine/2016/06/42388/)にも登場)
-- なぜかこの回が[中国語に訳され紹介された](https://kheresy.wordpress.com/2017/01/05/code-school/)ことがある。これには[ちょまど氏](https://twitter.com/chomado/status/865388169251901441)や[セオジョージ氏](https://twitter.com/theodoorjp/status/865405630718156800)も驚いた模様。  
+- なぜかこの回が[中国語に訳され紹介された](https://kheresy.wordpress.com/2017/01/05/code-school/)ことがある。これには[ちょまど氏](https://twitter.com/chomado/status/865388169251901441)や[セオショージ氏](https://twitter.com/theodoorjp/status/865405630718156800)も驚いた模様。  
 ちなみに翻訳した人は[KHeresy氏](https://twitter.com/KHeresy)で、後に[ちょまど氏がKHeresy氏にコンタクトを取った](https://twitter.com/chomado/status/865389498011537408)
 - 中国語での紹介記事は↑以外に[もう一つある](https://www.zhihu.com/question/46451192/answer/134042900)。こちらは最初からCopyrightが付いている
 
