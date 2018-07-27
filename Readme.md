@@ -29,10 +29,12 @@
 |ペンネーム|ちょまど|セオショージ|
 |Twitter|[@chomado](https://twitter.com/chomado)|[@theodoorjp](https://twitter.com/theodoorjp)|
 |Webサイト|[ちょまど帳](http://chomado.com/)|[セオ商事](http://theodoor.jp/)|
-|本職|[Microsoftエバンジェリスト](https://codeiq.jp/magazine/2016/03/39334/)|[エンジニア / クリエイティブディレクター](http://theodoor.jp/about)|
+|本職|※|[エンジニア / クリエイティブディレクター](http://theodoor.jp/about)|
 
-※この2名を含めた「はしれ！コード学園製作チーム」により、作品が**隔週で**作られている。  
-なお、[タイトルにおける「はしれ！」の部分はちょまど氏発案](https://twitter.com/chomado/status/746325284450762752)。
+※この2名を含めた「はしれ！コード学園製作チーム」により、作品が**隔週で**作られていた。  
+なお、[タイトルにおける「はしれ！」の部分はちょまど氏発案](https://twitter.com/chomado/status/746325284450762752)。  
+また、Microsoftエバンジェリストだったちょまど氏は、いつの間にか  
+ソフトウェアエンジニアに[役職が変わっている](https://twitter.com/chomado/status/1022492651654762498)ことが判明した。
 
 **[【↑目次へ】](#%E7%9B%AE%E6%AC%A1)**
 
@@ -41,16 +43,16 @@
 
 |言語名|初登場|髪色|髪長|髪飾り|バスト|服装|アクセサリー|1人称|2人称|備考|サンプル画像|
 |:-----|:-----|:---|:---|:-----|:-----|:---|:-----------|:----|:----|:---|:-----------|
-|[JavaScript](https://ja.wikipedia.org/wiki/JavaScript)|第1話|金色|ロング|「JS」マークのプレート|普乳|白いカッターシャツ・金色のリボン・紺のプリーツスカート|(無し)|私|？|気が弱い|[JSちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-js.gif)|
-|[Java](https://ja.wikipedia.org/wiki/Java)|第1話|茶色|ロング|(無し)|巨乳|紺のブレザー・赤色の「型」腕章・白いカッターシャツ・赤色のリボン・紺のプリーツスカート|(無し)|私|あなた|コーヒー好き|[Javaちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-java.gif)|
-|[C言語](https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E)|第1話|青色|セミロング|「C」マーク|普乳|白いカッターシャツ・朱色のリボン・|(無し)|あたし/私|きみ|不思議ちゃん|[Cちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/09/codegirl-c.gif)|
-|[Ruby](https://ja.wikipedia.org/wiki/Ruby)|第2話|桃色|ショート・三つ編み|赤色のリボン|巨乳|白いカッターシャツ・赤色のリボン・赤灰色の上着|巨大なルビーの宝石(ブリリアントカット)のようなものを真珠らしきチェーンでぶら下げている|あたし|？|元気っ子|[Rubyちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/10/ruby.jpg)|
-|[Swift](https://ja.wikipedia.org/wiki/Swift_%28%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%29)|第2話|銀灰色|セミロング|(無し)|貧乳|黒いタートルネック|リンゴをいつも持ち歩いている|ボク|キミ|ジョブズっぽい|[Swiftちゃん](https://codeiq.jp/magazine/wp-content/uploads/2015/10/swift.jpg)|
-|[Lisp](https://ja.wikipedia.org/wiki/Lisp)|番外編(本編では第5回)|黄緑色|ロング・ツインテール|「λ」マークの髪留め・「car・cdr」リボン|貧乳|セーラー服|Lispエイリアンが忠実な部下|わらわ|そち|得体が知れない|[Lispちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/02/CodeIQ-lisp1.jpg)|
-|[C++](https://ja.wikipedia.org/wiki/C++)|第7回|赤色|ポニーテール|「C++14」マーク|普乳|白いカッターシャツ・朱色のリボン・襟元に「Boost」のマーク|(無し)|ウチ|？|Boost掛けるぜ！|[C++ちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/02/0747cab24f6ef3da487bec8fa89ddc56.jpg)|
-|[C#](https://ja.wikipedia.org/wiki/C_Sharp)|第8回|淡い金色|ツインテール|緑色のリボン・「C#」マーク|巨乳|フリフリの白ブラウス・緑色のリボン・緑色のロングスカート|(無し)|わたくし|貴女|破天荒お嬢様|[C#ちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/03/C_pro.jpg)|
-|[Scala](https://ja.wikipedia.org/wiki/Scala)|第8回|赤色|縦ドリル1つ|「λ」マーク|巨乳？|紺の袖なしブレザー・赤色の「型」腕章・白いカッターシャツ・赤色のリボン・「Scala」のマーク|(無し)|？|？|オシャレさん|[Scalaちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/03/scala-pro.jpg)|
-|[PHP](https://ja.wikipedia.org/wiki/PHP:_Hypertext_Preprocessor)|第9回|青紫色|左サイドテール|白色のリボンのように見えるアンテナ・「PHP」マーク|貧乳|黒インナー(前ファスナー)・黒ショートパンツ・白Yシャツ・黒ネクタイ|(無し)|ボク|？|電波系アンドロイド|[PHPちゃん](https://codeiq.jp/magazine/wp-content/uploads/2016/06/php-1.jpg)|
+|[JavaScript](https://ja.wikipedia.org/wiki/JavaScript)|第1話|金色|ロング|「JS」マークのプレート|普乳|白いカッターシャツ・金色のリボン・紺のプリーツスカート|(無し)|私|？|気が弱い|[JSちゃん](https://next.rikunabi.com/journal/wp-content/uploads/2015/10/codegirl-js.gif)|
+|[Java](https://ja.wikipedia.org/wiki/Java)|第1話|茶色|ロング|(無し)|巨乳|紺のブレザー・赤色の「型」腕章・白いカッターシャツ・赤色のリボン・紺のプリーツスカート|(無し)|私|あなた|コーヒー好き|[Javaちゃん](https://next.rikunabi.com/journal/wp-content/uploads/2015/10/codegirl-java.gif)|
+|[C言語](https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E)|第1話|青色|セミロング|「C」マーク|普乳|白いカッターシャツ・朱色のリボン・|(無し)|あたし/私|きみ|不思議ちゃん|[Cちゃん](https://next.rikunabi.com/journal/wp-content/uploads/2015/10/codegirl-c.gif)|
+|[Ruby](https://ja.wikipedia.org/wiki/Ruby)|第2話|桃色|ショート・三つ編み|赤色のリボン|巨乳|白いカッターシャツ・赤色のリボン・赤灰色の上着|巨大なルビーの宝石(ブリリアントカット)のようなものを真珠らしきチェーンでぶら下げている|あたし|？|元気っ子|[Rubyちゃん](https://next.rikunabi.com/journal/wp-content/uploads/2015/10/Ruby.jpg)|
+|[Swift](https://ja.wikipedia.org/wiki/Swift_%28%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E%29)|第2話|銀灰色|セミロング|(無し)|貧乳|黒いタートルネック|リンゴをいつも持ち歩いている|ボク|キミ|ジョブズっぽい|[Swiftちゃん](https://next.rikunabi.com/journal/wp-content/uploads/2015/10/swift.jpg)|
+|[Lisp](https://ja.wikipedia.org/wiki/Lisp)|番外編(本編では第5回)|黄緑色|ロング・ツインテール|「λ」マークの髪留め・「car・cdr」リボン|貧乳|セーラー服|Lispエイリアンが忠実な部下|わらわ|そち|得体が知れない|[Lispちゃん](https://next.rikunabi.com/journal/wp-content/uploads/2015/12/lispcodeiq.jpg)|
+|[C++](https://ja.wikipedia.org/wiki/C++)|第7回|赤色|ポニーテール|「C++14」マーク|普乳|白いカッターシャツ・朱色のリボン・襟元に「Boost」のマーク|(無し)|ウチ|？|Boost掛けるぜ！|[C++ちゃん](https://next.rikunabi.com/journal/wp-content/uploads/2016/02/0747cab24f6ef3da487bec8fa89ddc56.jpg)|
+|[C#](https://ja.wikipedia.org/wiki/C_Sharp)|第8回|淡い金色|ツインテール|緑色のリボン・「C#」マーク|巨乳|フリフリの白ブラウス・緑色のリボン・緑色のロングスカート|(無し)|わたくし|貴女|破天荒お嬢様|[C#ちゃん](https://next.rikunabi.com/journal/wp-content/uploads/2016/03/C_pro.jpg)|
+|[Scala](https://ja.wikipedia.org/wiki/Scala)|第8回|赤色|縦ドリル1つ|「λ」マーク|巨乳？|紺の袖なしブレザー・赤色の「型」腕章・白いカッターシャツ・赤色のリボン・「Scala」のマーク|(無し)|？|？|オシャレさん|[Scalaちゃん](https://next.rikunabi.com/journal/wp-content/uploads/2016/03/scala-pro.jpg)|
+|[PHP](https://ja.wikipedia.org/wiki/PHP:_Hypertext_Preprocessor)|第9回|青紫色|左サイドテール|白色のリボンのように見えるアンテナ・「PHP」マーク|貧乳|黒インナー(前ファスナー)・黒ショートパンツ・白Yシャツ・黒ネクタイ|(無し)|ボク|？|電波系アンドロイド|[PHPちゃん](https://next.rikunabi.com/journal/wp-content/uploads/2016/06/php-1.jpg)|
 
 - 背丈……Swift＞JavaScript＝Java＝Ruby＞Lisp≒C＝C++。周囲の物体から察するに、**皆は人間並みの大きさである**
 - 髪型……JSちゃんの「JS」マークは第4回が初出
@@ -176,18 +178,18 @@
 ## 概説
 |投稿日|回数|見出し|タイトル|コマ数|解説記事|備考|
 |:-----|:---|:-----|:-------|:-----|:-------|:---|
-|2015/10/14|第1回|[東京Node学園からJavaScriptが転校してきた！](https://codeiq.jp/magazine/2015/10/30057/)|転校生|6|[第1回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/1.md)|SpecialThanks：[東京Node学園](http://nodejs.connpass.com/)|
-|2015/10/28|第2回|[Ruby、Java、Swift、JavaScriptの履習届は？](https://codeiq.jp/magazine/2015/10/31456/)|履習届け|7|[第2回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/2.md)|おまけ漫画が1つ多い|
-|2015/11/11|第3回|[秋の運動会！Java・Ruby・C・Swift・JavaScript、優勝したのは誰？](https://codeiq.jp/magazine/2015/11/33256/)|運動会|14|[第3回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/3.md)|新キャラ投票が実施された|
-|2015/11/25|第4回|[本日の調理実習は「スパゲッティコード」です。](https://codeiq.jp/magazine/2015/11/34020/)|調理実習|8|[第4回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/4.md)|おまけ問題にgoto封じの工夫が施されている。ワザとgoto入りの文を提出してみることを推奨|
-|2015/12/14|Lisp編|[Emacsこそ至高じゃ！新キャラ投票1位Lisp登場](https://codeiq.jp/magazine/2015/12/35252/)|あらゆるニーズに対応可能！？神秘の新キャラLispちゃん登場！|3(+3)|[Lisp編](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/lisp.md)|[投票結果](https://codeiq.jp/magazine/2015/11/33717/)よりLispちゃんが新規参戦|
-|2015/12/28|第5回|[世界中に届け！Lispサンタの超ロジスティック配送](https://codeiq.jp/magazine/2015/12/35872/)|クリスマス|14|[第5回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/5.md)|おまけ問題を解けばクリスマス壁紙が貰える|
-|2016/1/29|第6回|[プログラマの職業病、腰痛は椅子で撃退できる？](https://codeiq.jp/magazine/2016/01/37035/)|イス|11|[第6回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/6.md)|おまけ問題が[ぬるぽ](http://dic.nicovideo.jp/a/%E3%81%AC%E3%82%8B%E3%81%BD)|
-|2016/2/15|第7回|[最強言語は誰？プログラミング言語☆天下一武道会](https://codeiq.jp/magazine/2016/02/37597/)|たたかえ！コード学園|22|[第7回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/7.md)|[知っているのか雷電メソッド](https://twitter.com/theodoorjp/status/699467382025117698)が使用された|
-|2016/3/29|第8回|[C#が織りなすバーチャル・リアルティの世界へ、ようこそ！](https://codeiq.jp/magazine/2016/03/39291/)|VRはいいぞ|12|[第8回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/8.md)|SpecialThanks：キャラデザ監修：[岩永信之](http://ufcpp.net/about_me/)|
-|2016/4/15|de:code編|[C#が３分解説☆今年のde:codeは行くしかない！](https://codeiq.jp/magazine/2016/04/39858/)|de:codeをPRしちゃうわよ！|12|[de:code編](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/decode.md)|おまけ問題を解けば壁紙と、抽選でde:codeのチケットが貰える|
-|2016/6/24|第9回|[ヒャッハー！転入生PHPは電波系アンドロイド！？](https://codeiq.jp/magazine/2016/06/42388/)|PHPちゃんが転入してきた|12|[第9回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/9.md)|本来[ただの4コマ紹介漫画の予定](https://twitter.com/chomado/status/740189865921236992)だった|
-|2016/8/24|社畜ちゃん編|[「社畜ちゃん、○○はいいぞ」開発言語に迷ったらWEB開発三銃士をどうぞ！](https://codeiq.jp/magazine/2016/08/43587/)|社畜ちゃんとコード学園ガールズ|29|[社畜ちゃん編](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/vitaone.md)|作画：[結うき。](https://twitter.com/yuki_limit)氏、<br>原作：[ビタワン](https://twitter.com/vitaone_)氏|
+|2015/10/14|第1回|[東京Node学園からJavaScriptが転校してきた！](https://next.rikunabi.com/journal/20151014_t21_iq/)|転校生|6|[第1回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/1.md)|SpecialThanks：[東京Node学園](http://nodejs.connpass.com/)|
+|2015/10/28|第2回|[Ruby、Java、Swift、JavaScriptの履習届は？](https://next.rikunabi.com/journal/20151028_t21_iq/)|履習届け|7|[第2回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/2.md)|おまけ漫画が1つ多い|
+|2015/11/11|第3回|[秋の運動会！Java・Ruby・C・Swift・JavaScript、優勝したのは誰？](https://next.rikunabi.com/journal/20151111_t21_iq/)|運動会|14|[第3回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/3.md)|新キャラ投票が実施された|
+|2015/11/25|第4回|[本日の調理実習は「スパゲッティコード」です。](https://next.rikunabi.com/journal/20151125_t21_iq/)|調理実習|8|[第4回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/4.md)|おまけ問題にgoto封じの工夫が施されている。ワザとgoto入りの文を提出してみることを推奨|
+|2015/12/14|Lisp編|[Emacsこそ至高じゃ！新キャラ投票1位Lisp登場](https://next.rikunabi.com/journal/20151214_t21_iq/)|あらゆるニーズに対応可能！？神秘の新キャラLispちゃん登場！|3(+3)|[Lisp編](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/lisp.md)|[投票結果](http://archive.is/8HCkn)よりLispちゃんが新規参戦|
+|2015/12/28|第5回|[世界中に届け！Lispサンタの超ロジスティック配送](https://next.rikunabi.com/journal/20151228_t21_iq/)|クリスマス|14|[第5回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/5.md)|おまけ問題を解けばクリスマス壁紙が貰える|
+|2016/1/29|第6回|[プログラマの職業病、腰痛は椅子で撃退できる？](https://next.rikunabi.com/journal/20160129_t21_iq/)|イス|11|[第6回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/6.md)|おまけ問題が[ぬるぽ](http://dic.nicovideo.jp/a/%E3%81%AC%E3%82%8B%E3%81%BD)|
+|2016/2/15|第7回|[最強言語は誰？プログラミング言語☆天下一武道会](https://next.rikunabi.com/journal/20160215_t21_iq/)|たたかえ！コード学園|22|[第7回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/7.md)|[知っているのか雷電メソッド](https://twitter.com/theodoorjp/status/699467382025117698)が使用された|
+|2016/3/29|第8回|[C#が織りなすバーチャル・リアルティの世界へ、ようこそ！](https://next.rikunabi.com/journal/20160329_t21_iq/)|VRはいいぞ|12|[第8回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/8.md)|SpecialThanks：キャラデザ監修：[岩永信之](http://ufcpp.net/about_me/)|
+|2016/4/15|de:code編|[C#が３分解説☆今年のde:codeは行くしかない！](https://web.archive.org/web/20160415033525/https://codeiq.jp/magazine/2016/04/39858/)|de:codeをPRしちゃうわよ！|12|[de:code編](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/decode.md)|おまけ問題を解けば壁紙と、抽選でde:codeのチケットが貰える|
+|2016/6/24|第9回|[ヒャッハー！転入生PHPは電波系アンドロイド！？](https://next.rikunabi.com/journal/20160624_t21_iq/)|PHPちゃんが転入してきた|12|[第9回](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/9.md)|本来[ただの4コマ紹介漫画の予定](https://twitter.com/chomado/status/740189865921236992)だった|
+|2016/8/24|社畜ちゃん編|[「社畜ちゃん、○○はいいぞ」開発言語に迷ったらWEB開発三銃士をどうぞ！](https://next.rikunabi.com/journal/20160824_t21_iq/)|社畜ちゃんとコード学園ガールズ|29|[社畜ちゃん編](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/vitaone.md)|作画：[結うき。](https://twitter.com/yuki_limit)氏、<br>原作：[ビタワン](https://twitter.com/vitaone_)氏|
 
 **[【↑目次へ】](#%E7%9B%AE%E6%AC%A1)**
 
@@ -230,7 +232,7 @@ SPに固められた超お嬢様学校でもないと不自然である。また
 
 ## 第1回
 
-- 第1回でちょこっとだけ[クラウディア窓辺](https://msdn.microsoft.com/ja-jp/claudia00_01.aspx)が登場している([第1回の時点では疑惑だった](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/1.md)が、de:code編で公式化した。[第9回](https://codeiq.jp/magazine/2016/06/42388/)にも登場)
+- 第1回でちょこっとだけ[クラウディア窓辺](https://msdn.microsoft.com/ja-jp/claudia00_01.aspx)が登場している([第1回の時点では疑惑だった](https://github.com/YSRKEN/Unofficial-RCG-Manual/blob/master/article/1.md)が、de:code編で公式化した。[第9回](https://next.rikunabi.com/journal/20160624_t21_iq/)にも登場)
 - なぜかこの回が[中国語に訳され紹介された](https://kheresy.wordpress.com/2017/01/05/code-school/)ことがある。これには[ちょまど氏](https://twitter.com/chomado/status/865388169251901441)や[セオショージ氏](https://twitter.com/theodoorjp/status/865405630718156800)も驚いた模様。  
 ちなみに翻訳した人は[KHeresy氏](https://twitter.com/KHeresy)で、後に[ちょまど氏がKHeresy氏にコンタクトを取った](https://twitter.com/chomado/status/865389498011537408)
 - 中国語での紹介記事は↑以外に[もう一つある](https://www.zhihu.com/question/46451192/answer/134042900)。こちらは最初からCopyrightが付いている
